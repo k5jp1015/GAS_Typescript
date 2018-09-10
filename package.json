@@ -1,0 +1,20 @@
+{
+  "name": "GAS_Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/google-apps-script": "0.0.27",
+    "eslint": "^5.5.0"
+  },
+  "devDependencies": {
+    "@google/clasp": "^1.5.3",
+    "tslint": "^5.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
